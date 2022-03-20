@@ -19,7 +19,9 @@ Simply go to the link and click install. You will be prompted to install it via 
 
 Further instructions about creating your own configuration files can be found on [the official Visual Studio website](https://code.visualstudio.com/docs/cpp/configure-intellisense-crosscompilation).
 
-If you're on Windows, edit your environment variables and add a new item, DEVKITPRO. Its path value should point to `C:\msys64\opt\devkitpro`.
+If you're on Windows, edit your environment variables and add a new item, DEVKITPRO.
+
+If you used the graphical installer, Its path value should point to `C:\devkitpro`. Should it be an existing msys2 install, point it to `C:\msys64\opt\devkitpro`.
 
 ### Notes
 
