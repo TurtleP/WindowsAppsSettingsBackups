@@ -19,6 +19,8 @@ Simply go to the link and click install. You will be prompted to install it via 
 
 Further instructions about creating your own configuration files can be found on [the official Visual Studio website](https://code.visualstudio.com/docs/cpp/configure-intellisense-crosscompilation).
 
+If you're on Windows, edit your environment variables and add a new item, DEVKITPRO. Its path value should point to `C:\msys64\opt\devkitpro`.
+
 ### Notes
 
 If you only require one of the configurations (especially if you don't need the debug), simply copy the configuation's length via its curly brackets `{}` and ensure there's no stray commas. Copy this empty template, then paste the configuration inside of it:
