@@ -21,7 +21,7 @@ Further instructions about creating your own configuration files can be found on
 
 If you're on Windows, edit your environment variables and add a new item, DEVKITPRO.
 
-If you used the graphical installer, Its path value should point to `C:\devkitpro`. Should it be an existing msys2 install, point it to `C:\msys64\opt\devkitpro`.
+If you used the graphical installer, Its path value should point to `C:\devkitpro`.<br>Should it be an existing msys2 install, point it to `C:\msys64\opt\devkitpro`.
 
 ### Notes
 
